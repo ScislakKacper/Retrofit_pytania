@@ -1,0 +1,25 @@
+{
+  "pytania":[
+    {
+      "treść": "Pomeranian to: ",
+      "odpa": "Rasa psa",
+      "odpb": "Marka auta",
+      "odpc": "Wymyślona nazwa",
+      "poprawna": 1
+    },
+    {
+      "treść": "Pies ma: ",
+      "odpa": "4 łapy",
+      "odpb": "6 łap",
+      "odpc": "8 łap",
+      "poprawna": 1
+    },
+    {
+      "treść": "Aktualna Stolica Polski to: ",
+      "odpa": "Warszawa",
+      "odpb": "Kraków",
+      "odpc": "Poznań",
+      "poprawna": 1
+    }
+  ]
+}
